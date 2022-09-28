@@ -1,0 +1,2 @@
+# SpringDataRedisTest
+基于SpringDataRedis下的redisTemplate操作5种常见数据类型
